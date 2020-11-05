@@ -1,0 +1,15 @@
+logo -> <i class="fab fa-google-play"></i>
+
+icon -> <span class="material-icons">
+report_problem
+</span>
+
+
+icon 2 -> <span class="material-icons">
+add_shopping_cart
+</span>
+
+
+icon 3 - > <span class="material-icons">
+compare_arrows
+</span>
